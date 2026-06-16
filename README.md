@@ -1,2 +1,2 @@
 # Folha Salarial
-Projeto do primeiro semestrea da faculdade
+Projeto do primeiro semestre da faculdade
